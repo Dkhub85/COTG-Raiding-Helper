@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name Cotg Raiding helper with boss kill w12
-// @namespace xxxxx
-// @version 0.1.0
-// @description Cotg Raiding helper w12
+// @name Cotg Raiding helper
+// @namespace https://raw.githubusercontent.com/DKhub85/
+// @version 1.0.0
+// @description Cotg Raiding helper
 // @author Dhruv
 // @match https://w12.crownofthegods.com
 // @match https://w11.crownofthegods.com
 // @include https://w/*.crownofthegods.com/World*
 // @grant none
-// @updateURL    ...
-// @downloadURL  ...
+// @updateURL https://raw.githubusercontent.com/DKhub85/COTG-Raiding-Helper/master/RH.user.js
+// @downloadURL https://raw.githubusercontent.com/DKhub85/COTG-Raiding-Helper/master/RH.user.js
 // ==/UserScript==
 (function D_Raiding_helper() {
     console.log("updated:march.2017");
